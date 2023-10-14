@@ -15,3 +15,10 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 * الأسبوع الثالث [Week 3](/Foundations_Data%2C%20Data%2C%20Everywhere/Week_3)
 * الأسبوع الرابع [Week 4](/Foundations_Data%2C%20Data%2C%20Everywhere/Week_4)
 * الأسبوع الخامس [Week 5](/Foundations_Data%2C%20Data%2C%20Everywhere/Week_5)
+
+
+
+
+#  أرشيف حلول جميع الكورسات[elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d)
+
+
