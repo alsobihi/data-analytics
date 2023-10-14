@@ -26,9 +26,9 @@ Data is an assortment of questions.
 
 Data is a business process.
 
-<span style="color:darkgreen">
+
 **Data is a collection of facts.**
-</span>
+
 
 
 Data is the use of calculations and statistics.
