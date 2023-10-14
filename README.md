@@ -10,4 +10,8 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 ## Foundations_Data, Data, Everywhere
 
-الأسبوع الأول [Week 1](/Foundations_Data%2C%20Data%2C%20Everywhere/Week_1)
+* الأسبوع الأول [Week 1](/Foundations_Data%2C%20Data%2C%20Everywhere/Week_1)
+* الأسبوع الثاني [Week 1](/Foundations_Data%2C%20Data%2C%20Everywhere/Week_2)
+* الأسبوع الثالث [Week 1](/Foundations_Data%2C%20Data%2C%20Everywhere/Week_3)
+* الأسبوع الرابع [Week 1](/Foundations_Data%2C%20Data%2C%20Everywhere/Week_4)
+* الأسبوع الخامس [Week 1](/Foundations_Data%2C%20Data%2C%20Everywhere/Week_5)
