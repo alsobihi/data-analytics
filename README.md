@@ -1,5 +1,10 @@
 # data-analytics
 
+اسئلة مراجعة مع الحلول لكورس تحليل البيانات من قوقل 
+
+Google Data Analytics Professional Certificate [رابط الكورس](https://www.coursera.org/professional-certificates/google-data-analytics)
+
+
 
 
 
