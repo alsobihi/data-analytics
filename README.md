@@ -19,6 +19,45 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 
 
+## 02_ask-questions-make-decisions
+
+-  ASK : [elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d/02_ask-questions-make-decisions)
+
+
+
+## 03_data-preparation
+
+-  preparation : [elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d/03_data-preparation)
+
+
+
+## 04_process-data
+
+-  process : [elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d/04_process-data)
+
+
+## 05_analyze-data
+
+-  analyze : [elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d/05_analyze-data)
+
+
+
+## 06_visualize-data
+
+-  visualize : [elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d/06_visualize-data)
+
+
+## 07_data-analysis-r
+
+-  Analysis R : [elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d/07_data-analysis-r)
+
+
+## 08_google-data-analytics-capstone
+
+-  capstone R : [elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d/08_google-data-analytics-capstone)
+
+
+
 -   أرشيف حلول جميع الكورسات[elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d)
 
 
