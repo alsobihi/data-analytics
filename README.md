@@ -82,5 +82,6 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 *  الأختبار النهائي للأسبوع الثالث [Quiz: Week 3](/Design%20and%20Build%20a%20Data%20Warehouse%20for%20Business%20Intelligence%20Implementation/Week_3/Quiz%20for%20module%203%20assignment-Production%20DW.md) 
 
+* ملف حلول جميع الواجبات من هنا [file.pdf](/file.pdf) قم بتحميل الملف وأرفاقه في جميع الواجبات المطلوبة 
 
 
