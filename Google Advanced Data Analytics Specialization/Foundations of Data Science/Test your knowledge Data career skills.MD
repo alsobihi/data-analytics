@@ -6,7 +6,7 @@
 * Investigative skills
 * Practical skills 
 * Career skills 
-* Interpersonal skills []
+* Interpersonal skills [صح]
 
 
 
@@ -16,7 +16,7 @@
 * critical thinking 
 * fine-tuning 
 * self-control 
-* active listening []
+* active listening [صح]
 
 
 
@@ -24,7 +24,7 @@
 
 ### 3. Question 3 What is the process of formatting data and removing unwanted material? 1 point 
 * Data validation 
-* Data cleaning []
+* Data cleaning [صح]
 * Data aggregation 
 * Data governance
 

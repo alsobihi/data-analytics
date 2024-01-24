@@ -104,6 +104,9 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 * اختبار الاسبوع الثاني [Module 2 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Module%202%20challenge.MD)
 
+* Test your knowledge: Trajectory of the field
+
+
 * Module 3 challenge
 * Module 4 challenge
 * Assess your Course 1 end-of-course project
