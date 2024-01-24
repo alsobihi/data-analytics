@@ -85,3 +85,28 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 * ملف حلول جميع الواجبات من هنا [file.pdf](/file.pdf) قم بتحميل الملف وأرفاقه في جميع الواجبات المطلوبة 
 
 
+
+
+
+
+## Google Advanced Data Analytics Specialization
+
+
+##### Foundations of Data Science
+* Assess your readiness for the Advanced Analytics Data Certificate [رابط](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Assess%20your%20readiness%20for%20the%20Advanced%20Analytics%20Data%20Certificate.MD)
+* Module 1 challenge
+* Module 2 challenge
+* Module 3 challenge
+* Module 4 challenge
+* Assess your Course 1 end-of-course project
+
+##### Get Started with Python
+##### Go Beyond the Numbers: Translate Data into Insights
+##### The Power of Statistics
+##### Regression Analysis: Simplify Complex Data Relationships
+##### The Nuts and Bolts of Machine Learning
+##### Google Advanced Data Analytics Capstone
+ 
+
+
+
