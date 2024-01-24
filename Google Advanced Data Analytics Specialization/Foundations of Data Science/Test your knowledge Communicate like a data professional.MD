@@ -7,14 +7,14 @@ Test your knowledge: Communicate like a data professional
 
 * Construct
 * Analyze
-* Plan [صح]
+* [ **Plan** ] [صح]
 * Execute
 
 ### 2.Question 2 Which PACE stage involves preparing data in order to reveal the stories data tells? 1 point
 
 * Construct
 * Plan
-* Analyze [صح]
+* [ **Analyze** ] [صح]
 * Execute
 
 

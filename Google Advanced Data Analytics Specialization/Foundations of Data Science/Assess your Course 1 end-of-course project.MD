@@ -19,7 +19,7 @@ The following rubric items assess the work you completed for Course 1 PACE Strat
 
 ### 1.Question 1 The Course 1 PACE Strategy Document includes responses for all the questions provided under the Planning Stage section. 1 point
 
-* Yes [صح]
+* [ **Yes** ] [صح]
 * No
 
 
@@ -31,7 +31,7 @@ The following rubric items assess the work you completed for the Project Proposa
 1 point
 
 
-* Yes [صح]
+* [ **Yes** ] [صح]
 * No
 
 
@@ -40,7 +40,7 @@ The following rubric items assess the work you completed for the Project Proposa
 1 point
 
 
-* Yes [صح]
+* [ **Yes** ] [صح]
 * No
 
 
@@ -49,7 +49,7 @@ The following rubric items assess the work you completed for the Project Proposa
 1 point
 
 
-* Yes [صح]
+* [ **Yes** ] [صح]
 * No
 
 
@@ -58,7 +58,7 @@ The following rubric items assess the work you completed for the Project Proposa
 1 point
 
 
-* Yes [صح]
+* [ **Yes** ] [صح]
 * No
 
 
@@ -67,7 +67,7 @@ The following rubric items assess the work you completed for the Project Proposa
 1 point
 
 
-* Yes [صح]
+* [ **Yes** ] [صح]
 * No
 
 
@@ -76,7 +76,7 @@ The following rubric items assess the work you completed for the Project Proposa
 1 point
 
 
-* Yes [صح]
+* [ **Yes** ] [صح]
 * No
 
 
@@ -85,7 +85,7 @@ The following rubric items assess the work you completed for the Project Proposa
 1 point
 
 
-* Yes [صح]
+* [ **Yes** ] [صح]
 * No
 
 
@@ -94,7 +94,7 @@ The following rubric items assess the work you completed for the Project Proposa
 1 point
 
 
-* Yes [صح]
+* [ **Yes** ] [صح]
 * No
 
 ###  10.Question 10 The task "Build a regression model" is paired with the "Analyze" and “Construct” stages of PACE. 
@@ -102,7 +102,7 @@ The following rubric items assess the work you completed for the Project Proposa
 1 point
 
 
-* Yes [صح]
+* [ **Yes** ] [صح]
 * No
 
 
@@ -111,7 +111,7 @@ The following rubric items assess the work you completed for the Project Proposa
 1 point
 
 
-* Yes [صح]
+* [ **Yes** ] [صح]
 * No
 
 
@@ -120,7 +120,7 @@ The following rubric items assess the work you completed for the Project Proposa
 1 point
 
 
-* Yes [صح]
+* [ **Yes** ] [صح]
 * No
 
 
@@ -129,7 +129,7 @@ The following rubric items assess the work you completed for the Project Proposa
 1 point
 
 
-* Yes [صح]
+* [ **Yes** ] [صح]
 * No
 
 
@@ -138,6 +138,6 @@ The following rubric items assess the work you completed for the Project Proposa
 1 point
 
 
-* Yes [صح]
+* [ **Yes** ] [صح]
 * No
 

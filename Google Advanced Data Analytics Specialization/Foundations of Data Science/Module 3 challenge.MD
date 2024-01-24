@@ -5,20 +5,20 @@ Module 3 challenge
 ### 1.Question 1 How would a data professional practice active listening? 1 point
 
 * Proactively address feedback
-* Allow others to share their points of view before offering a response [صح]
+* [ **Allow others to share their points of view before offering a response** ] [صح]
 * Brainstorm collaboratively
 * Only participate in discussions when asked a direct question
 
 ### 2.Question 2 What tasks are involved in data cleaning? Select all that apply. 1 point
 
-* Tagging and consolidating duplicates [صح]
-* Removing irrelevant entries [صح]
+* [ **Tagging and consolidating duplicates** ] [صح]
+* [ **Removing irrelevant entries** ] [صح]
 * Archiving datasets for later use
-* Eliminating structural errors and empty spaces [صح]
+* [ **Eliminating structural errors and empty spaces** ] [صح]
 
 ### 3.Question 3 Fill in the blank: Data engineers are responsible for making data _____. 1 point
 
-* accessible [صح]
+* [ **accessible** ] [صح]
 * duplicative
 * insightful
 * anonymized
@@ -28,26 +28,26 @@ Module 3 challenge
 * Data warehousing specialists
 * Information technology professionals
 * Data security officers
-* Insights or analytics team managers [صح]
+* [ **Insights or analytics team managers** ] [صح]
 
 ### 5.Question 5 What type of data professional is responsible for organizing information and making it accessible? 1 point
 
-* Business intelligence engineer [صح]
+* [ **Business intelligence engineer** ] [صح]
 * Digital data analyst
 * Data scientist
 * Project manager
 
 ### 6.Question 6 Which of the following statements accurately describe a RACI matrix? Select all that apply. 1 point
 
-* The acronym RACI stands for responsible, accountable, consulted, and informed. [صح]
-* Someone who is labeled “accountable” actually performs the work and makes decisions that are directly related to completing a task.[خطأ]
-* Someone who is labeled “consulted” is typically a subject matter expert who offers input on a task. [صح]
+* [ **The acronym RACI stands for responsible, accountable, consulted, and informed.** ] [صح]
+* Someone who is labeled “accountable” actually performs the work and makes decisions that are directly related to completing a task  [خطأ]
+* [ **Someone who is labeled “consulted” is typically a subject matter expert who offers input on a task.** ] [صح]
 * Someone who is labeled “informed” is kept aware of progress and the concerns of people working on a project. 
 
 ### 7.Question 7 A hiring supervisor considers whether a data team job candidate is committed to learning new skills. They want to hire someone who will continue to learn and grow as new technologies and regulations emerge. Which principle for data team building does this scenario describe?  1 point
 
 * Business impact
-* Adaptability [صح]
+* [ **Adaptability** ] [صح]
 * Accountability
 * Standardization
 
@@ -70,7 +70,7 @@ ________________________
 ### 2.Question 2 What is the main objective of data cleaning? 1 point
 
 * Identify improvement opportunities
-* Remove anything that could cause an error during analysis [صح]
+* [ **Remove anything that could cause an error during analysis** ] [صح]
 * Safeguard an organization’s systems and tools
 * Make data visualizations more readable
 
@@ -78,12 +78,12 @@ ________________________
 
 * research
 * projects
-* infrastructure [صح]
+* [ **infrastructure** ] [صح]
 * dashboards
 
 ### 4.Question 4 Fill in the blank: Insights or _____ team managers supervise an organization’s analytical strategy. 1 point
 
-* analytics [صح]
+* [ **analytics** ] [صح]
 * hardware
 * visualization
 * operations
@@ -91,16 +91,16 @@ ________________________
 
 ### 6.Question 6 Which of the following statements accurately describe a RACI matrix? Select all that apply. 1 point
 
-* Someone who is labeled “accountable” approves the work performed by those who are responsible for tasks. [صح]
+* [ **Someone who is labeled “accountable” approves the work performed by those who are responsible for tasks.** ] [صح]
 
 
-* Someone who is labeled “responsible” actually performs the work and makes decisions that are directly related to completing tasks.[صح]
+* [ **Someone who is labeled “responsible” actually performs the work and makes decisions that are directly related to completing tasks.** ] [صح]
 
 
 * Someone who is labeled “informed” is kept apprised of details and specific tasks, as well as how these tasks are performed.
 
 
-* The acronym RACI stands for responsible, accountable, consulted, and informed. [صح]
+* [ **The acronym RACI stands for responsible, accountable, consulted, and informed.** ] [صح]
 
 
 
@@ -115,5 +115,5 @@ ________________________
 
 * Business impact
 * Accountability
-* Adaptability [صح]
+* [ **Adaptability** ] [صح]
 * Activation

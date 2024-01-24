@@ -9,15 +9,14 @@ Module 4 challenge
 ### 1.Question 1 In the plan stage of the PACE model, what questions might a data professional ask themself? Select all that apply. 1 point
 
 * How can the data be cleaned and converted into a usable format?
-
-* What are the goals of the project?[صح]
-* How will the business or operation be affected by the plan? [صح]
-* What strategies will be needed? [صح]
+* [ **What are the goals of the project?** ] [صح]
+* [ **How will the business or operation be affected by the plan?** ] [صح]
+* [ **What strategies will be needed?** ] [صح]
 
 ### 2.Question 2 Fill in the blank: In the construct stage of the PACE model, data professionals build, interpret, and revise models and _____ in order to uncover relationships within the data and unlock related insights. 1 point
 
 * visualizations
-* machine learning algorithms [صح]
+* [ **machine learning algorithms** ] [صح]
 * dashboards
 * datasets
 
@@ -25,21 +24,21 @@ Module 4 challenge
 
 * Plan
 * Construct
-* Execute [صح]
+* [ **Execute** ] [صح]
 * Analyze
 
 ### 4.Question 4 All communicative exchanges contain key elements. Which element involves considering the audience of a particular communication?  1 point
 
 * Sender
 * Consideration
-* Receiver [صح]
+* [ **Receiver** ] [صح]
 * Purpose
 
 ### 5.Question 5 Which of the following are best practices when communicating? Select all that apply.  1 point
 
-* Strive for clarity. [صح]
-* Draft messages using proper grammar. [صح] 
-* Aim to minimize wordiness. [صح]
+* [ **Strive for clarity.** ] [صح]
+* [ **Draft messages using proper grammar.** ] [صح] 
+* [ **Aim to minimize wordiness.** ] [صح]
 * Use longer sentences when explaining complex ideas.
 
 
@@ -47,7 +46,7 @@ Module 4 challenge
 ### 6.Question 6 In which stage of the PACE framework would a data professional prioritize effective communication with team members and stakeholders? 1 point
 
 * Construct
-* All four stages [صح]
+* [ **All four stages** ] [صح]
 * Plan
 * Analyze
 
@@ -55,11 +54,11 @@ Module 4 challenge
 
 * Formulate your response while the other person is talking
 
-* Place a high value on the insights gained from others [صح]
+* [ **Place a high value on the insights gained from others** ] [صح]
 
-* Take notes in meetings for later reference [صح]
+* [ **Take notes in meetings for later reference** ] [صح]
 
-* Be curious [صح]
+* [ **Be curious** ] [صح]
 
 
 ### 8.Question 8 Which section of a project proposal is a brief explanation of what the project is trying to achieve? 1 point
@@ -67,7 +66,7 @@ Module 4 challenge
 * Outcomes
 * Project title
 * Project objective [اتوقع هذي صح]
-* Milestones [خطأ]
+* [ **Milestones** ] [خطأ]
 
 
 
