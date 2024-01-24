@@ -104,12 +104,24 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 * اختبار الاسبوع الثاني [Module 2 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Module%202%20challenge.MD)
 
-* Test your knowledge: Trajectory of the field
+* اختبار قصير [Test your knowledge: Trajectory of the field](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Test%20your%20knowledge%20Trajectory%20of%20the%20field.MD)
 
 
-* Module 3 challenge
-* Module 4 challenge
-* Assess your Course 1 end-of-course project
+* اختبار الاسبوع الثالث [Module 3 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Module%203%20challenge.MD)
+
+* اختبار قصير [Test your knowledge: The data project workflow](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Test%20your%20knowledge%20The%20data%20project%20workflow.MD)
+
+* اختبار قصير [Test your knowledge: Elements of communication](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Test%20your%20knowledge%20Elements%20of%20communication.MD)
+
+* اختبار قصير [Test your knowledge: Communicate like a data professional](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Test%20your%20knowledge%20Communicate%20like%20a%20data%20professional.MD)
+
+* اختبار الاسبوع الرابع [Module 4 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Module%204%20challenge.MD)
+
+
+
+* الاختبار النهائي [Assess your Course 1 end-of-course project](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Assess%20your%20Course%201%20end-of-course%20project.MD)
+
+
 
 ##### Get Started with Python
 ##### Go Beyond the Numbers: Translate Data into Insights
