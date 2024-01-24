@@ -91,6 +91,8 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 ## Google Advanced Data Analytics Specialization
 
+رابط الكورسات :
+[Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics#courses)
 
 ##### Foundations of Data Science
 * اختبار تحديد مستوى (اختياري) [Assess your readiness for the Advanced Analytics Data Certificate](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Assess%20your%20readiness%20for%20the%20Advanced%20Analytics%20Data%20Certificate.MD)
