@@ -95,7 +95,15 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 ##### Foundations of Data Science
 * اختبار تحديد مستوى (اختياري) [Assess your readiness for the Advanced Analytics Data Certificate](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Assess%20your%20readiness%20for%20the%20Advanced%20Analytics%20Data%20Certificate.MD)
 * اختبار الأسبوع الأول [Module 1 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Module%201%20challenge.MD)
-* Module 2 challenge
+
+* اختبار قصير [Test your knowledge: Data-driven careers](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Test%20your%20knowledge%20Data-driven%20careers.MD)
+* اختبار قصير [Test your knowledge: Data career skills](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Test%20your%20knowledge%20Data%20career%20skills.MD)
+
+* اختبار قصير [Test your knowledge: Work in the field](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Test%20your%20knowledge%20Work%20in%20the%20field.MD)
+
+
+* اختبار الاسبوع الثاني [Module 2 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Module%202%20challenge.MD)
+
 * Module 3 challenge
 * Module 4 challenge
 * Assess your Course 1 end-of-course project
