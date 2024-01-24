@@ -129,7 +129,13 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 * اختبار تحديد مستوى [Test your knowledge: Get started with the course](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Test%20your%20knowledge%20Get%20started%20with%20the%20course.md)
 
-* Module 1
+* اختبار قصير [Test your knowledge: The power of Python](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Test%20your%20knowledge%20The%20power%20of%20Python.md)
+
+* اختبار قصير[Test your knowledge: Using Python syntax](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Test%20your%20knowledge%20Using%20Python%20syntax.md)
+
+
+* أختبار الأسبوع الأول [Module 1](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Module%201.md)
+
 * Module 2
 * Module 3
 * Module 4
