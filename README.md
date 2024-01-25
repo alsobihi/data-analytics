@@ -144,13 +144,42 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 * Module 2 challenge [Module 2 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Module%202%20challenge.md)
 
-* Module 3
-* Module 4
-* Module 5
+* اختبار قصير [Test your knowledge: While loops](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Test%20your%20knowledge%20While%20loops.md)
+
+* اختبار قصير [Test your knowledge: For loops](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Test%20your%20knowledge%20For%20loops.md)
+
+* أختبار قصير [Test your knowledge: Strings](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Test%20your%20knowledge%20Strings.md)
+
+
+
+* اختبار الاسبوع الثالث [Module 3 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Module%203%20challenge.md)
+
+
+* اختبار قصير [Test your knowledge: Lists and tuples](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Test%20your%20knowledge%20Lists%20and%20tuples.md)
+
+* اختبار قصير [Test your knowledge: Dictionaries and sets](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Test%20your%20knowledge%20Dictionaries%20and%20sets.md)
+
+* اختبار قصير [Test your knowledge: Arrays and vectors with NumPy](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Test%20your%20knowledge%20Arrays%20and%20vectors%20with%20NumPy.md)
+
+* اختبار قصير [Test your knowledge: Dataframes with pandas](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Test%20your%20knowledge%20Dataframes%20with%20pandas.md)
+
+* أختبار الأسبوع الرابع [Module 4 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Module%204%20challenge.md)
+
+
+* تقيم مستوى النهائي [Assess your Course 2 end-of-course project](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Assess%20your%20Course%202%20end-of-course%20project.md)
 
 
 
 ##### Go Beyond the Numbers: Translate Data into Insights
+
+
+
+
+
+
+
+
+
 ##### The Power of Statistics
 ##### Regression Analysis: Simplify Complex Data Relationships
 ##### The Nuts and Bolts of Machine Learning
