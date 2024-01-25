@@ -2,13 +2,14 @@
 
 اسئلة مراجعة مع الحلول لكورس تحليل البيانات من قوقل 
 
-Google Data Analytics Professional Certificate [رابط الكورس](https://www.coursera.org/professional-certificates/google-data-analytics)
+Google Data Analytics Professional Certificate *قم بالتسجيل في الشهادة قبل البدء *[رابط الكورس](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 
 
 
 
-## Foundations_Data, Data, Everywhere [للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics)
+## Foundations_Data, Data, Everywhere 
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics)
 
 * الأسبوع الأول [Week 1](/Foundations_Data%2C%20Data%2C%20Everywhere/Week_1)
 * الأسبوع الثاني [Week 2](/Foundations_Data%2C%20Data%2C%20Everywhere/Week_2)
@@ -20,39 +21,40 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 
 ## 02_ask-questions-make-decisions
-
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics)
 -  ASK : [elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d/02_ask-questions-make-decisions)
 
 
 
 ## 03_data-preparation
-
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/data-preparation?specialization=google-data-analytics)
 -  preparation : [elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d/03_data-preparation)
 
 
 
 ## 04_process-data
-
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/process-data?specialization=google-data-analytics)
 -  process : [elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d/04_process-data)
 
 
 ## 05_analyze-data
-
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/analyze-data?specialization=google-data-analytics)
 -  analyze : [elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d/05_analyze-data)
 
 
 
 ## 06_visualize-data
-
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics)
 -  visualize : [elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d/06_visualize-data)
 
 
 ## 07_data-analysis-r
-
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/data-analysis-r?specialization=google-data-analytics)
 -  Analysis R : [elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d/07_data-analysis-r)
 
 
 ## 08_google-data-analytics-capstone
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/google-data-analytics-capstone?specialization=google-data-analytics)
 
 -  capstone R : [elmoallistair](https://github.com/elmoallistair/google-data-analytics/tree/33aebadb2d76570b53a3110e8b2ff2051a0daf1d/08_google-data-analytics-capstone)
 
@@ -64,6 +66,7 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 
 ## Data Visualization with R
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/data-visualization-r)
 - الأسبوع الأول [Week 1](https://progiez.com/data-visualization-with-r-week-1-coursera-quiz-answers)
 - الأسبوع الثاني  [Week 2](https://progiez.com/data-visualization-with-r-week-2-coursera-quiz-answers)
 - الأسبوع الثالث  [Week 3](https://progiez.com/data-visualization-with-r-week-3-coursera-quiz-answers)
@@ -76,7 +79,7 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 
 ## Design and Build a Data Warehouse for Business Intelligence Implementation
-
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/data-warehouse-bi-building)
 
 *  الأختبار القصير للأسبوع الثالث [Practice Quiz: Week 3](/Design%20and%20Build%20a%20Data%20Warehouse%20for%20Business%20Intelligence%20Implementation/Week_3/Practice%20Quiz%20for%20module%203%20assignment-Test%20DW.md) 
 
@@ -95,6 +98,10 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics#courses)
 
 ##### Foundations of Data Science
+
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/foundations-of-data-science?specialization=google-advanced-data-analytics)
+
+
 * اختبار تحديد مستوى (اختياري) [Assess your readiness for the Advanced Analytics Data Certificate](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Assess%20your%20readiness%20for%20the%20Advanced%20Analytics%20Data%20Certificate.MD)
 * اختبار الأسبوع الأول [Module 1 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Foundations%20of%20Data%20Science/Module%201%20challenge.MD)
 
@@ -126,6 +133,8 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 
 ##### Get Started with Python
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/get-started-with-python?specialization=google-advanced-data-analytics)
+
 
 * اختبار تحديد مستوى [Test your knowledge: Get started with the course](./Google%20Advanced%20Data%20Analytics%20Specialization/Get%20Started%20with%20Python/Test%20your%20knowledge%20Get%20started%20with%20the%20course.md)
 
@@ -171,7 +180,7 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 
 ##### Go Beyond the Numbers: Translate Data into Insights
-
+[للتسجيل في الكورس أضغط هنا]()
 
 
 
@@ -181,9 +190,21 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 
 ##### The Power of Statistics
+[للتسجيل في الكورس أضغط هنا]()
+
+
 ##### Regression Analysis: Simplify Complex Data Relationships
+[للتسجيل في الكورس أضغط هنا]()
+
+
 ##### The Nuts and Bolts of Machine Learning
+[للتسجيل في الكورس أضغط هنا]()
+
+
 ##### Google Advanced Data Analytics Capstone
+[للتسجيل في الكورس أضغط هنا]()
+
+
  
 
 
