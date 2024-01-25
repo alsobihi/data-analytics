@@ -180,7 +180,7 @@ Google Data Analytics Professional Certificate *قم بالتسجيل في ال�
 
 
 ##### Go Beyond the Numbers: Translate Data into Insights
-[للتسجيل في الكورس أضغط هنا]()
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight?specialization=google-advanced-data-analytics)
 
 
 
@@ -190,19 +190,19 @@ Google Data Analytics Professional Certificate *قم بالتسجيل في ال�
 
 
 ##### The Power of Statistics
-[للتسجيل في الكورس أضغط هنا]()
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/the-power-of-statistics?specialization=google-advanced-data-analytics)
 
 
 ##### Regression Analysis: Simplify Complex Data Relationships
-[للتسجيل في الكورس أضغط هنا]()
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/regression-analysis-simplify-complex-data-relationships?specialization=google-advanced-data-analytics)
 
 
 ##### The Nuts and Bolts of Machine Learning
-[للتسجيل في الكورس أضغط هنا]()
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning?specialization=google-advanced-data-analytics)
 
 
 ##### Google Advanced Data Analytics Capstone
-[للتسجيل في الكورس أضغط هنا]()
+[للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/google-advanced-data-analytics-capstone?specialization=google-advanced-data-analytics)
 
 
  
