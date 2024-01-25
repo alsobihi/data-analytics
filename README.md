@@ -2,7 +2,11 @@
 
 اسئلة مراجعة مع الحلول لكورس تحليل البيانات من قوقل 
 
-Google Data Analytics Professional Certificate *قم بالتسجيل في الشهادة قبل البدء *[رابط الكورس](https://www.coursera.org/professional-certificates/google-data-analytics)
+Google Data Analytics Professional Certificate 
+
+*قم بالتسجيل في الشهادة قبل البدء*
+
+[رابط الكورسات](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 
 
@@ -95,6 +99,8 @@ Google Data Analytics Professional Certificate *قم بالتسجيل في ال�
 ## Google Advanced Data Analytics Specialization
 
 رابط الكورسات :
+
+*قم بالتسجيل في الشهادة قبل البدء*
 [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics#courses)
 
 ##### Foundations of Data Science
