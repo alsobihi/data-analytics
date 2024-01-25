@@ -8,7 +8,7 @@ Google Data Analytics Professional Certificate [رابط الكورس](https://w
 
 
 
-## Foundations_Data, Data, Everywhere
+## Foundations_Data, Data, Everywhere [للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics)
 
 * الأسبوع الأول [Week 1](/Foundations_Data%2C%20Data%2C%20Everywhere/Week_1)
 * الأسبوع الثاني [Week 2](/Foundations_Data%2C%20Data%2C%20Everywhere/Week_2)
