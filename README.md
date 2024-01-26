@@ -199,6 +199,40 @@ Google Data Analytics Professional Certificate
 * اختبار الأسبوع الأول [Module 1 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Module%201%20challenge.md)
 
 
+* اختبار قصير [Test your knowledge: Discovering is the beginning of an investigation](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Test%20your%20knowledge%20Discovering%20is%20the%20beginning%20of%20an%20investigation.md)
+
+
+
+* اختبار قصير [Test your knowledge: Understand data format](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Test%20your%20knowledge%20Understand%20data%20format.md)
+
+
+* اختبار قصير [Test your knowledge: Create structure from raw data](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Test%20your%20knowledge%20Create%20structure%20from%20raw%20data.md)
+
+
+
+* أختبار الأسبوع الثاني [Module 2 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Module%202%20challenge.md)
+
+
+* اختبار قصير [Test your knowledge: The challenge of missing or duplicate data](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Test%20your%20knowledge%20The%20challenge%20of%20missing%20or%20duplicate%20data.md)
+
+
+
+
+* اختبار قصير [Test your knowledge: The ins and outs of data outliers](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Test%20your%20knowledge%20The%20ins%20and%20outs%20of%20data%20outliers.md)
+
+
+
+* اختبار قصير [Test your knowledge: Changing categorical data to numerical data](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Test%20your%20knowledge%20Changing%20categorical%20data%20to%20numerical%20data.md)
+
+
+
+
+* اختبار قصير [Test your knowledge: Input validation](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Test%20your%20knowledge%20Input%20validation.md)
+
+
+* اختبار الأسبوع الثالث [Module 3 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Module%203%20challenge.md)
+
+
 
 
 
