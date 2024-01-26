@@ -189,6 +189,14 @@ Google Data Analytics Professional Certificate
 [للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight?specialization=google-advanced-data-analytics)
 
 
+* اختبار قصير [Test your knowledge: Tell stories with data](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Test%20your%20knowledge%20Tell%20stories%20with%20data.md)
+
+
+
+* اختبار قصير [Test your knowledge: How PACE informs EDA and data visualizations](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Test%20your%20knowledge%20How%20PACE%20informs%20EDA%20and%20data%20visualizations.md)
+
+
+* اختبار الأسبوع الأول [Module 1 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Module%201%20challenge.md)
 
 
 
@@ -197,6 +205,7 @@ Google Data Analytics Professional Certificate
 
 ##### The Power of Statistics
 [للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/the-power-of-statistics?specialization=google-advanced-data-analytics)
+
 
 
 ##### Regression Analysis: Simplify Complex Data Relationships
