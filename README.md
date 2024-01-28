@@ -234,6 +234,44 @@ Google Data Analytics Professional Certificate
 
 
 
+* اختبار قصير [Test your knowledge: Present a story](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Test%20your%20knowledge%20Present%20a%20story.md)
+
+
+
+* اختبار قصير [Activity: Design a bar graph that tells a story in Tableau Public](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Activity%20Design%20a%20bar%20graph%20that%20tells%20a%20story%20in%20Tableau%20Public.md)
+
+
+
+* اختبار قصير [Activity: Build an interactive dashboard in Tableau Public](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Activity%20Build%20an%20interactive%20dashboard%20in%20Tableau%20Public.md)
+
+
+
+
+* اختبار قصير [Test your knowledge: Advanced Tableau](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Test%20your%20knowledge%20Advanced%20Tableau.md)
+
+
+* اختبار الأسبوع الرابع [Module 4 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Module%204%20challenge.md)
+
+
+
+* اختبار قصير [Activity: Create your Course 3 Automatidata project](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Activity%20Create%20your%20Course%203%20Automatidata%20project.md)
+
+
+
+
+
+*  اختبار قصير [Activity: Create your Course 3 TikTok project](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Activity%20Create%20your%20Course%203%20TikTok%20project.md)
+
+
+
+* اختبار قصير [Activity: Create your Course 3 Waze project](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Activity%20Create%20your%20Course%203%20Waze%20project.md)
+
+
+* اختبار قصير [Assess your Course 3 end-of-course project](./Google%20Advanced%20Data%20Analytics%20Specialization/Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Assess%20your%20Course%203%20end-of-course%20project.md)
+
+
+
+
 
 
 
