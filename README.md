@@ -279,6 +279,22 @@ Google Data Analytics Professional Certificate
 [للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/the-power-of-statistics?specialization=google-advanced-data-analytics)
 
 
+* اختبار قصير [Test your knowledge: The role of statistics in data science](./Google%20Advanced%20Data%20Analytics%20Specialization/The%20Power%20of%20Statistics/Test%20your%20knowledge%20The%20role%20of%20statistics%20in%20data%20science.md)
+
+* اختبار قصير [Test your knowledge: Descriptive statistics](./Google%20Advanced%20Data%20Analytics%20Specialization/The%20Power%20of%20Statistics/Test%20your%20knowledge%20Descriptive%20statistics.md)
+
+
+
+* اختبار قصير [Test your knowledge: Calculate statistics with Python](./Google%20Advanced%20Data%20Analytics%20Specialization/The%20Power%20of%20Statistics/Test%20your%20knowledge%20Calculate%20statistics%20with%20Python.md)
+
+
+
+* اختبار الأسبوع الأول [Module 1 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/The%20Power%20of%20Statistics/Module%201%20challenge.md)
+
+
+* اختبار قصير [Test your knowledge: Basic concepts of probability](./Google%20Advanced%20Data%20Analytics%20Specialization/The%20Power%20of%20Statistics/Test%20your%20knowledge%20Basic%20concepts%20of%20probability.md)
+
+
 
 ##### Regression Analysis: Simplify Complex Data Relationships
 [للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/regression-analysis-simplify-complex-data-relationships?specialization=google-advanced-data-analytics)
