@@ -308,7 +308,7 @@ Google Data Analytics Professional Certificate
 * اختبار قصير [Test your knowledge: Continuous probability distributions](./Google%20Advanced%20Data%20Analytics%20Specialization/The%20Power%20of%20Statistics/Test%20your%20knowledge%20Continuous%20probability%20distributions.md)
 
 
-
+* اختبار قصير [Test your knowledge: Probability distributions with Python](./Google%20Advanced%20Data%20Analytics%20Specialization/The%20Power%20of%20Statistics/Test%20your%20knowledge%20Probability%20distributions%20with%20Python.md)
 
 
 ##### Regression Analysis: Simplify Complex Data Relationships
