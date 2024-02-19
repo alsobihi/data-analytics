@@ -311,6 +311,11 @@ Google Data Analytics Professional Certificate
 * اختبار قصير [Test your knowledge: Probability distributions with Python](./Google%20Advanced%20Data%20Analytics%20Specialization/The%20Power%20of%20Statistics/Test%20your%20knowledge%20Probability%20distributions%20with%20Python.md)
 
 
+
+
+* اختبار الأسبوع الثاني [Module 2 challenge](./Google%20Advanced%20Data%20Analytics%20Specialization/The%20Power%20of%20Statistics/Module%202%20challenge.md)
+
+
 ##### Regression Analysis: Simplify Complex Data Relationships
 [للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/regression-analysis-simplify-complex-data-relationships?specialization=google-advanced-data-analytics)
 
