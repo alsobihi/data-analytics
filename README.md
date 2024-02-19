@@ -295,6 +295,18 @@ Google Data Analytics Professional Certificate
 * اختبار قصير [Test your knowledge: Basic concepts of probability](./Google%20Advanced%20Data%20Analytics%20Specialization/The%20Power%20of%20Statistics/Test%20your%20knowledge%20Basic%20concepts%20of%20probability.md)
 
 
+* اختبار قصير [Test your knowledge: Conditional probability](./Google%20Advanced%20Data%20Analytics%20Specialization/The%20Power%20of%20Statistics/Test%20your%20knowledge%20Conditional%20probability.md)
+
+
+
+
+
+* اختبار قصير [Test your knowledge: Discrete probability distributions](./Google%20Advanced%20Data%20Analytics%20Specialization/The%20Power%20of%20Statistics/Test%20your%20knowledge%20Discrete%20probability%20distributions.md)
+
+
+
+
+
 
 ##### Regression Analysis: Simplify Complex Data Relationships
 [للتسجيل في الكورس أضغط هنا](https://www.coursera.org/learn/regression-analysis-simplify-complex-data-relationships?specialization=google-advanced-data-analytics)
