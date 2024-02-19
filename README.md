@@ -305,6 +305,9 @@ Google Data Analytics Professional Certificate
 
 
 
+* اختبار قصير [Test your knowledge: Continuous probability distributions](./Google%20Advanced%20Data%20Analytics%20Specialization/The%20Power%20of%20Statistics/Test%20your%20knowledge%20Continuous%20probability%20distributions.md)
+
+
 
 
 
